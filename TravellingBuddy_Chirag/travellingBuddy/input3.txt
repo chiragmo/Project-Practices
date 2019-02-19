@@ -1,0 +1,4 @@
+moore	dummyName	ithaca,Times Square
+steven	dummyName	ithaca,Times Square
+kanad	dummyName	endicott,ithaca,Times Square,binghamton
+miller	dummyName	ithaca,Times Square,binghamton,albany

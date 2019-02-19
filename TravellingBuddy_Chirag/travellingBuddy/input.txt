@@ -1,0 +1,3 @@
+alisa	larry	binghamton,brooklyn,albany
+tomm	moore	binghamton,manhantan
+titan	noore	binghamton,albany

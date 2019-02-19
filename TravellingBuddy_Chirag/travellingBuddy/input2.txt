@@ -1,0 +1,5 @@
+alisa	dummyName	Bronx,brooklyn
+john	dummyName	ithaca,Bronx,manhattan
+sofia	dummyName	endicott,ithaca,Bronx,manhattan
+mary	dummyName	ithaca,albany
+chirag	dummyName	ithaca,albany,brooklyn,binghamton
