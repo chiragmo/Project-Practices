@@ -1,0 +1,15 @@
+Author: Chirag M. Onkarappa
+_______________________________________________________________________________________
+
+Agenda of the program:
+
+Java does not natively provide graph implemenation. The following is an effort to craete a package for the same. The program can be used for unweighted directed graphs unweighted undirected graphs. This can be set by a boolean in the main method.
+
+The below methods are available from the main method.
+create a vertex: addVertex(stringLabel)
+delete a vetex: removeVertex(stringLabel)
+create an edge: createEdge(stringLabelOne, stringLabelTwo)
+delete an edge: removeEdge(stringLabelOne, stringLabelTwo)
+
+Note: The class.Graph overrides hascode() and equals() with a contract with stringLabel. Hence duplicate Nodes with same stringLabel will be treated
+as equal.
